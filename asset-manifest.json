@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mohdaqib1/Covid-19/static/css/main.fa95dbb9.css",
+    "main.js": "/Mohdaqib1/Covid-19/static/js/main.d9e7d743.js",
+    "static/js/787.98651143.chunk.js": "/Mohdaqib1/Covid-19/static/js/787.98651143.chunk.js",
+    "index.html": "/Mohdaqib1/Covid-19/index.html",
+    "main.fa95dbb9.css.map": "/Mohdaqib1/Covid-19/static/css/main.fa95dbb9.css.map",
+    "main.d9e7d743.js.map": "/Mohdaqib1/Covid-19/static/js/main.d9e7d743.js.map",
+    "787.98651143.chunk.js.map": "/Mohdaqib1/Covid-19/static/js/787.98651143.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa95dbb9.css",
+    "static/js/main.d9e7d743.js"
+  ]
+}
